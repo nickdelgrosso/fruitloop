@@ -1,8 +1,12 @@
+
+
 # ratcave
+
 3D Graphics Engine running off Python, Psychopy, and Pyglet
 
 Full Documentation and Tutorials can be found at http://ratcave.readthedocs.io/
 
+**Note**: This is a fork of the **ratcave** project, originally intended for another purpose.  This fork has been **discontinued**-- the original project is still in active development, however, and can be found at https://www.github.com/neuroneuro/ratcave
 
 ## Installation
 ```
